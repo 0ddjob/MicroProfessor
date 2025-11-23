@@ -1,0 +1,4 @@
+This is the FORTH chip dump for the MPF1P.
+This needs to be programmed onto a 2764.
+You plug in in socket U3. 
+Press CONTROL-B to start it (same as BASIC).
